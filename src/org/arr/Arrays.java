@@ -14,6 +14,7 @@ public static void main(String[] args) {
 	a[3]=40;
 	
 		 System.out.println(a[3]);
+		 System.out.println(a);
 		
 	
 	

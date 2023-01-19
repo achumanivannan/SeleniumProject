@@ -32,7 +32,7 @@ public static void main(String[] args) {
 	System.out.println("add the code to branch B");
 	System.out.println("code to branch B");
 	System.out.println("hadoop to branch c");
-	
+	System.out.println("B");
 
 
 

@@ -28,7 +28,12 @@ public static void main(String[] args) {
 	System.out.println(a);
 	s.removeAll(a);
 	System.out.println(s);
-System.out.println("add the code to branch B");
+	System.out.println("add code to branch c");
+	System.out.println("add the code to branch B");
+	System.out.println("code to branch B");
+	
+
+
 
 }
 	}
